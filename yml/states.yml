@@ -29198,7 +29198,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Anhui
+    native: 安徽省
     latitude: '32.00000000'
     longitude: '117.00000000'
     timezone: Asia/Shanghai
@@ -29215,7 +29215,7 @@ state:
       fr: Anhui
       ja: 安徽省
       it: Anhui
-      zh-CN: 安徽
+      zh-CN: 安徽省
       tr: Anhui
       ru: Аньхой
       uk: Аньхой
@@ -29236,7 +29236,7 @@ state:
     type: municipality
     level: '3'
     parent_id: null
-    native: Beijing
+    native: 北京市
     latitude: '39.90571360'
     longitude: '116.39129720'
     timezone: Asia/Shanghai
@@ -29253,7 +29253,7 @@ state:
       fr: Pékin
       ja: 北京
       it: Pechino
-      zh-CN: 北京
+      zh-CN: 北京市
       tr: Pekin
       ru: Пекин
       uk: Пекін
@@ -29274,7 +29274,7 @@ state:
     type: municipality
     level: '3'
     parent_id: null
-    native: Chongqing
+    native: 重庆市
     latitude: '30.05518000'
     longitude: '107.87487120'
     timezone: Asia/Shanghai
@@ -29291,7 +29291,7 @@ state:
       fr: Chongqing
       ja: 重慶
       it: Chongqing
-      zh-CN: 重庆
+      zh-CN: 重庆市
       tr: Çongçing
       ru: Чунцин
       uk: Чунцін
@@ -29312,7 +29312,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Fujian
+    native: 福建省
     latitude: '26.19321800'
     longitude: '118.22087210'
     timezone: Asia/Shanghai
@@ -29329,7 +29329,7 @@ state:
       fr: Fujian
       ja: 福建省
       it: Fujian
-      zh-CN: 福建
+      zh-CN: 福建省
       tr: Fujian
       ru: Фуцзянь
       uk: Фуцзянь
@@ -29350,7 +29350,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Gansu
+    native: 甘肃省
     latitude: '38.00000010'
     longitude: '101.99999990'
     timezone: Asia/Shanghai
@@ -29367,7 +29367,7 @@ state:
       fr: Gansu
       ja: 甘粛省
       it: Gansu
-      zh-CN: 甘肃
+      zh-CN: 甘肃省
       tr: Gansu
       ru: Ганьсу
       uk: Ганьсу
@@ -29388,7 +29388,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Guangdong
+    native: 广东省
     latitude: '23.13576940'
     longitude: '113.19826880'
     timezone: Asia/Shanghai
@@ -29405,7 +29405,7 @@ state:
       fr: Guangdong
       ja: 広東省
       it: Guangdong
-      zh-CN: 粤
+      zh-CN: 广东省
       tr: Guangdong
       ru: Гуандун
       uk: Гуандун
@@ -29426,7 +29426,7 @@ state:
     type: 'autonomous region'
     level: '1'
     parent_id: null
-    native: 'Guangxi Zhuang'
+    native: 广西壮族自治区
     latitude: '24.00000000'
     longitude: '109.00000000'
     timezone: Asia/Shanghai
@@ -29443,7 +29443,7 @@ state:
       fr: GuangxiZhuang
       ja: 広西チワン族自治区
       it: GuangxiZhuang
-      zh-CN: 广西壮族
+      zh-CN: 广西壮族自治区
       tr: 'Guangxi Zhuang'
       ru: 'Гуанси Чжуан'
       uk: 'Гуансі Чжуан'
@@ -29464,7 +29464,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Guizhou
+    native: 贵州省
     latitude: '27.00000000'
     longitude: '107.00000000'
     timezone: Asia/Shanghai
@@ -29481,7 +29481,7 @@ state:
       fr: Guizhou
       ja: 貴州省
       it: Guizhou
-      zh-CN: 贵州
+      zh-CN: 贵州省
       tr: Guizhou
       ru: Гуйчжоу
       uk: Гуйчжоу
@@ -29502,7 +29502,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Hainan
+    native: 海南省
     latitude: '19.20000010'
     longitude: '109.59999990'
     timezone: Asia/Shanghai
@@ -29519,7 +29519,7 @@ state:
       fr: Hainan
       ja: 海南省
       it: Hainan
-      zh-CN: 海南
+      zh-CN: 海南省
       tr: Hainan
       ru: Хайнань
       uk: Хайнань
@@ -29540,7 +29540,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Hebei
+    native: 河北省
     latitude: '39.00000010'
     longitude: '116.00000000'
     timezone: Asia/Shanghai
@@ -29557,7 +29557,7 @@ state:
       fr: Hebei
       ja: 河北省
       it: Hebei
-      zh-CN: 河北
+      zh-CN: 河北省
       tr: Hebei
       ru: Хэбэй
       uk: Хебей
@@ -29578,7 +29578,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Heilongjiang
+    native: 黑龙江省
     latitude: '48.00000470'
     longitude: '127.99999200'
     timezone: Asia/Shanghai
@@ -29595,7 +29595,7 @@ state:
       fr: Heilongjiang
       ja: 黒龍江省
       it: Heilongjiang
-      zh-CN: 黑龙江
+      zh-CN: 黑龙江省
       tr: Heilongjiang
       ru: Хэйлунцзян
       uk: Хейлунцзян
@@ -29616,7 +29616,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Henan
+    native: 河南省
     latitude: '34.00000010'
     longitude: '113.99999990'
     timezone: Asia/Shanghai
@@ -29633,7 +29633,7 @@ state:
       fr: Henan
       ja: 河南省
       it: Henan
-      zh-CN: 河南
+      zh-CN: 河南省
       tr: Henan
       ru: Хэнань
       uk: Хенань
@@ -29654,7 +29654,7 @@ state:
     type: 'special administrative region'
     level: '1'
     parent_id: null
-    native: 'Hong Kong SAR'
+    native: 香港特别行政区
     latitude: '22.35062700'
     longitude: '114.18491610'
     timezone: Asia/Shanghai
@@ -29692,7 +29692,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Hubei
+    native: 湖北省
     latitude: '31.00000000'
     longitude: '112.00000000'
     timezone: Asia/Shanghai
@@ -29709,7 +29709,7 @@ state:
       fr: Hubei
       ja: 湖北省
       it: Hubei
-      zh-CN: 湖北
+      zh-CN: 湖北省
       tr: Hubei
       ru: Хубэй
       uk: Хубей
@@ -29730,7 +29730,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Hunan
+    native: 湖南省
     latitude: '27.66620870'
     longitude: '111.74870630'
     timezone: Asia/Shanghai
@@ -29747,7 +29747,7 @@ state:
       fr: Hunan
       ja: 湖南省
       it: Hunan
-      zh-CN: 湖南
+      zh-CN: 湖南省
       tr: Hunan
       ru: Хунань
       uk: Хунань
@@ -29768,7 +29768,7 @@ state:
     type: 'autonomous region'
     level: '1'
     parent_id: null
-    native: 'Inner Mongolia'
+    native: 内蒙古自治区
     latitude: '43.24432420'
     longitude: '114.32516640'
     timezone: Asia/Shanghai
@@ -29785,7 +29785,7 @@ state:
       fr: 'Mongolie intérieure'
       ja: 内モンゴル
       it: 'Mongolia Interna'
-      zh-CN: 内蒙古
+      zh-CN: 内蒙古自治区
       tr: 'İç Moğolistan'
       ru: 'Внутренняя Монголия'
       uk: 'Внутрішня Монголія'
@@ -29806,7 +29806,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Jiangsu
+    native: 江苏省
     latitude: '33.00000010'
     longitude: '119.99999990'
     timezone: Asia/Shanghai
@@ -29823,7 +29823,7 @@ state:
       fr: Jiangsu
       ja: 江蘇省
       it: Jiangsu
-      zh-CN: 江苏
+      zh-CN: 江苏省
       tr: Jiangsu
       ru: Цзянсу
       uk: Цзянсу
@@ -29844,7 +29844,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Jiangxi
+    native: 江西省
     latitude: '28.00000000'
     longitude: '116.00000000'
     timezone: Asia/Shanghai
@@ -29861,7 +29861,7 @@ state:
       fr: Jiangxi
       ja: 江西省
       it: Jiangxi
-      zh-CN: 江西
+      zh-CN: 江西省
       tr: Jiangxi
       ru: Цзянси
       uk: Цзянсі
@@ -29882,7 +29882,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Jilin
+    native: 吉林省
     latitude: '43.83788300'
     longitude: '126.54957200'
     timezone: Asia/Shanghai
@@ -29899,7 +29899,7 @@ state:
       fr: Jilin
       ja: 吉林省
       it: Jilin
-      zh-CN: 吉林
+      zh-CN: 吉林省
       tr: Jilin
       ru: Цзилинь
       uk: Цзілінь
@@ -29920,7 +29920,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Liaoning
+    native: 辽宁省
     latitude: '41.23741060'
     longitude: '122.99554690'
     timezone: Asia/Shanghai
@@ -29937,7 +29937,7 @@ state:
       fr: Liaoning
       ja: 遼寧省
       it: Liaoning
-      zh-CN: 辽宁
+      zh-CN: 辽宁省
       tr: Liaoning
       ru: Ляонин
       uk: Ляонін
@@ -29958,7 +29958,7 @@ state:
     type: 'special administrative region'
     level: '1'
     parent_id: null
-    native: 'Macau SAR'
+    native: 澳门特别行政区
     latitude: '22.31452850'
     longitude: '113.94724460'
     timezone: Asia/Shanghai
@@ -29996,28 +29996,28 @@ state:
     type: 'autonomous region'
     level: '1'
     parent_id: null
-    native: 'Ningxia Huizu'
+    native: 宁夏回族自治区
     latitude: '37.00000010'
     longitude: '105.99999990'
     timezone: Asia/Shanghai
     translations:
-      br: 'Ningxia Huizu'
+      br: 'Ningxia Hui'
       ko: 닝샤후이주
-      pt-BR: 'Ningxia Huizu'
-      pt: 'Ningxia Huizu'
-      nl: 'Ningxia Huizu'
-      hr: 'Ningxia Huizu'
+      pt-BR: 'Ningxia Hui'
+      pt: 'Ningxia Hui'
+      nl: 'Ningxia Hui'
+      hr: 'Ningxia Hui'
       fa: 'نینگشیا هویزو'
-      de: 'Ningxia Huizu'
-      es: 'Ningxia Huizu'
-      fr: 'Ningxia Huizu'
+      de: 'Ningxia Hui'
+      es: 'Ningxia Hui'
+      fr: 'Ningxia Hui'
       ja: 寧夏回族自治区
-      it: 'Ningxia Huizu'
-      zh-CN: 宁夏回族
-      tr: 'Ningxia Huizu'
+      it: 'Ningxia Hui'
+      zh-CN: 宁夏回族自治区
+      tr: 'Ningxia Hui'
       ru: 'Нинся Хуэйцзу'
       uk: 'Нінся Хуйзу'
-      pl: 'Ningxia Huizu'
+      pl: 'Ningxia Hui'
       hi: 'निंग्ज़िया हुइज़ु'
       ar: 'نينغشيا هويزو'
     wikiDataId: Q57448
@@ -30034,7 +30034,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Qinghai
+    native: 青海省
     latitude: '36.00000000'
     longitude: '96.00000000'
     timezone: Asia/Shanghai
@@ -30051,7 +30051,7 @@ state:
       fr: Qinghai
       ja: 青海省
       it: Qinghai
-      zh-CN: 青海
+      zh-CN: 青海省
       tr: Qinghai
       ru: Цинхай
       uk: Цінхай
@@ -30072,7 +30072,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Shaanxi
+    native: 陕西省
     latitude: '35.58959590'
     longitude: '109.30131070'
     timezone: Asia/Shanghai
@@ -30089,7 +30089,7 @@ state:
       fr: Shaanxi
       ja: 陝西省
       it: Shaanxi
-      zh-CN: 陕西
+      zh-CN: 陕西省
       tr: Şensi
       ru: Шэньси
       uk: Шеньсі
@@ -30110,7 +30110,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Shandong
+    native: 山东省
     latitude: '36.39898700'
     longitude: '118.50556910'
     timezone: Asia/Shanghai
@@ -30127,7 +30127,7 @@ state:
       fr: Shandong
       ja: 山東省
       it: Shandong
-      zh-CN: 山东
+      zh-CN: 山东省
       tr: Şandong
       ru: Шаньдун
       uk: Шаньдун
@@ -30148,7 +30148,7 @@ state:
     type: municipality
     level: '3'
     parent_id: null
-    native: Shanghai
+    native: 上海市
     latitude: '31.23041600'
     longitude: '121.47370100'
     timezone: Asia/Shanghai
@@ -30165,7 +30165,7 @@ state:
       fr: Shanghai
       ja: 上海
       it: Shanghai
-      zh-CN: 上海
+      zh-CN: 上海市
       tr: Şanghay
       ru: Шанхай
       uk: Шанхай
@@ -30186,7 +30186,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Shanxi
+    native: 山西省
     latitude: '37.00000000'
     longitude: '112.00000000'
     timezone: Asia/Shanghai
@@ -30203,7 +30203,7 @@ state:
       fr: Shanxi
       ja: 山西省
       it: Shanxi
-      zh-CN: 山西
+      zh-CN: 山西省
       tr: Şanksi
       ru: Шаньси
       uk: Шаньсі
@@ -30224,7 +30224,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Sichuan
+    native: 四川省
     latitude: '30.50000010'
     longitude: '102.49999990'
     timezone: Asia/Shanghai
@@ -30241,7 +30241,7 @@ state:
       fr: Sichuan
       ja: 四川省
       it: Sichuan
-      zh-CN: 四川
+      zh-CN: 四川省
       tr: Sichuan
       ru: Сычуань
       uk: Сичуань
@@ -30262,7 +30262,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Taiwan
+    native: 台湾
     latitude: '23.97393740'
     longitude: '120.98201790'
     timezone: Asia/Shanghai
@@ -30300,7 +30300,7 @@ state:
     type: municipality
     level: '3'
     parent_id: null
-    native: Tianjin
+    native: 天津市
     latitude: '39.08448970'
     longitude: '117.19567240'
     timezone: Asia/Shanghai
@@ -30317,7 +30317,7 @@ state:
       fr: Tianjin
       ja: 天津
       it: Tianjin
-      zh-CN: 天津
+      zh-CN: 天津市
       tr: Tianjin
       ru: Тяньцзинь
       uk: Тяньцзінь
@@ -30338,7 +30338,7 @@ state:
     type: 'autonomous region'
     level: '1'
     parent_id: null
-    native: Xizang
+    native: 西藏自治区
     latitude: '29.85564430'
     longitude: '90.87498070'
     timezone: Asia/Shanghai
@@ -30355,7 +30355,7 @@ state:
       fr: Xizang
       ja: 西蔵
       it: Xizang
-      zh-CN: 西藏
+      zh-CN: 西藏自治区
       tr: Xizang
       ru: Сизан
       uk: Xizang
@@ -30376,7 +30376,7 @@ state:
     type: 'autonomous region'
     level: '1'
     parent_id: null
-    native: Xinjiang
+    native: 新疆维吾尔自治区
     latitude: '42.48049530'
     longitude: '85.46334640'
     timezone: Asia/Urumqi
@@ -30393,7 +30393,7 @@ state:
       fr: Xinjiang
       ja: 新疆ウイグル自治区
       it: Xinjiang
-      zh-CN: 新疆
+      zh-CN: 新疆维吾尔自治区
       tr: Sincan
       ru: Синьцзян
       uk: Сіньцзян
@@ -30414,7 +30414,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Yunnan
+    native: 云南省
     latitude: '25.00000000'
     longitude: '102.00000000'
     timezone: Asia/Shanghai
@@ -30431,7 +30431,7 @@ state:
       fr: Yunnan
       ja: 雲南省
       it: Yunnan
-      zh-CN: 云南
+      zh-CN: 云南省
       tr: Yunnan
       ru: Юньнань
       uk: Юньнань
@@ -30452,7 +30452,7 @@ state:
     type: province
     level: '1'
     parent_id: null
-    native: Zhejiang
+    native: 浙江省
     latitude: '29.00000010'
     longitude: '119.99999990'
     timezone: Asia/Shanghai
@@ -30469,7 +30469,7 @@ state:
       fr: Zhejiang
       ja: 浙江省
       it: Zhejiang
-      zh-CN: 浙江
+      zh-CN: 浙江省
       tr: Zhejiang
       ru: Чжэцзян
       uk: Чжецзян
@@ -129011,7 +129011,7 @@ state:
     type: region
     level: null
     parent_id: null
-    native: CALABARZON
+    native: Calabarzon
     latitude: '14.16583140'
     longitude: '121.35355770'
     timezone: Asia/Manila
@@ -129087,7 +129087,7 @@ state:
     type: province
     level: '1'
     parent_id: '1304'
-    native: 'Camarines on'
+    native: 'Camarines Sur'
     latitude: '13.64282160'
     longitude: '123.32823380'
     timezone: Asia/Manila
@@ -129619,7 +129619,7 @@ state:
     type: province
     level: '1'
     parent_id: '1340'
-    native: 'South Davao'
+    native: 'Davao del Sur'
     latitude: '6.69836580'
     longitude: '125.36121350'
     timezone: Asia/Manila
@@ -129999,7 +129999,7 @@ state:
     type: province
     level: '1'
     parent_id: '1355'
-    native: 'Ilocos Sur Ilocos Sur'
+    native: 'Ilocos Sur'
     latitude: '17.20000000'
     longitude: '120.50000000'
     timezone: Asia/Manila
@@ -130151,7 +130151,7 @@ state:
     type: province
     level: '1'
     parent_id: '1355'
-    native: Union
+    native: 'La Union'
     latitude: '16.57359570'
     longitude: '120.40898990'
     timezone: Asia/Manila
@@ -130265,7 +130265,7 @@ state:
     type: province
     level: '1'
     parent_id: '1316'
-    native: 'Lanao of the South'
+    native: 'Lanao del Sur'
     latitude: '7.87764430'
     longitude: '124.37547590'
     timezone: Asia/Manila
@@ -130379,7 +130379,7 @@ state:
     type: province
     level: '1'
     parent_id: '1316'
-    native: South.
+    native: 'Maguindanao del Sur'
     latitude: '6.92341960'
     longitude: '124.53653570'
     timezone: Asia/Manila
@@ -130493,7 +130493,7 @@ state:
     type: region
     level: null
     parent_id: null
-    native: MIMAROPA
+    native: Mimaropa
     latitude: '13.01064360'
     longitude: '121.41157470'
     timezone: Asia/Manila
@@ -130569,7 +130569,7 @@ state:
     type: province
     level: '1'
     parent_id: '1339'
-    native: 'Eastern Misamis'
+    native: 'Misamis Oriental'
     latitude: '8.65348070'
     longitude: '124.82352050'
     timezone: Asia/Manila
@@ -130683,15 +130683,15 @@ state:
     type: province
     level: '1'
     parent_id: '1305'
-    native: 'Western blacks'
+    native: 'Negros Occidental'
     latitude: '10.41666700'
     longitude: '123.00000000'
     timezone: Asia/Manila
     translations:
       br: 'Negros Occidental'
       ko: '네그로스 옥시덴탈'
-      pt-BR: 'Negros Ocidentais'
-      pt: 'Negros Ocidentais'
+      pt-BR: 'Negros Occidental'
+      pt: 'Negros Occidental'
       nl: 'Negros Occidental'
       hr: 'Zapadni Negros'
       fa: 'نگروس غربی'
@@ -130699,9 +130699,9 @@ state:
       es: 'Negros Occidental'
       fr: 'Negros occidental'
       ja: ネグロス・オクシデンタル
-      it: 'Negri Occidentali'
+      it: 'Negros Occidental'
       zh-CN: 西内格罗斯省
-      tr: 'Batılı Zenciler'
+      tr: 'Negros Occidental'
       ru: 'Негрос Оксидентал'
       uk: 'Негрос Оксидентал'
       pl: 'Negros Occidental'
@@ -130721,15 +130721,15 @@ state:
     type: province
     level: '1'
     parent_id: '1308'
-    native: 'Eastern blacks'
+    native: 'Negros Oriental'
     latitude: '9.75000000'
     longitude: '123.00000000'
     timezone: Asia/Manila
     translations:
       br: 'Negros Oriental'
       ko: '네그로스 오리엔탈'
-      pt-BR: 'Negros Orientais'
-      pt: 'Negros Orientais'
+      pt-BR: 'Negros Oriental'
+      pt: 'Negros Oriental'
       nl: 'Negros Oriental'
       hr: 'Negros Oriental'
       fa: 'نگروس شرقی'
@@ -130739,7 +130739,7 @@ state:
       ja: ネグロス・オリエンタル
       it: 'Negros Oriental'
       zh-CN: 东内格罗斯省
-      tr: 'Zenci Doğulu'
+      tr: 'Negros Oriental'
       ru: 'Негрос Ориентал'
       uk: Негрос-Схід
       pl: 'Negros Oriental'
@@ -130835,7 +130835,7 @@ state:
     type: province
     level: '1'
     parent_id: '1345'
-    native: 'New Ecija'
+    native: 'Nueva Ecija'
     latitude: '15.58333300'
     longitude: '121.00000000'
     timezone: Asia/Manila
@@ -130873,7 +130873,7 @@ state:
     type: province
     level: '1'
     parent_id: '1342'
-    native: 'New Biscay'
+    native: 'Nueva Vizcaya'
     latitude: '16.35000000'
     longitude: '121.13000000'
     timezone: Asia/Manila
@@ -131671,7 +131671,7 @@ state:
     type: province
     level: '1'
     parent_id: '1316'
-    native: Tawi-tawi
+    native: Tawi-Tawi
     latitude: '5.20570000'
     longitude: '120.02650000'
     timezone: Asia/Manila
@@ -131823,7 +131823,7 @@ state:
     type: province
     level: '1'
     parent_id: '1325'
-    native: 'North Zamboanga'
+    native: 'Zamboanga del Norte'
     latitude: '8.00000000'
     longitude: '122.66666700'
     timezone: Asia/Manila
@@ -131861,7 +131861,7 @@ state:
     type: province
     level: '1'
     parent_id: '1325'
-    native: 'South Zamboanga'
+    native: 'Zamboanga del Sur'
     latitude: '7.90430000'
     longitude: '123.31940000'
     timezone: Asia/Manila
@@ -194064,6 +194064,63 @@ state:
     wikiDataId: Q1612
     population: 3088354
   -
+    id: 5815
+    name: 'Armed Forces Europe'
+    country_id: 233
+    country_code: US
+    country_name: 'United States'
+    iso2: AE
+    iso3166_2: null
+    fips_code: null
+    type: 'military postal region'
+    level: null
+    parent_id: null
+    native: 'Armed Forces Europe'
+    latitude: null
+    longitude: null
+    timezone: null
+    translations: {  }
+    wikiDataId: null
+    population: null
+  -
+    id: 5816
+    name: 'Armed Forces of the Americas'
+    country_id: 233
+    country_code: US
+    country_name: 'United States'
+    iso2: AA
+    iso3166_2: null
+    fips_code: null
+    type: 'military postal region'
+    level: null
+    parent_id: null
+    native: 'Armed Forces of the Americas'
+    latitude: null
+    longitude: null
+    timezone: null
+    translations: {  }
+    wikiDataId: null
+    population: null
+  -
+    id: 5817
+    name: 'Armed Forces Pacific'
+    country_id: 233
+    country_code: US
+    country_name: 'United States'
+    iso2: AP
+    iso3166_2: null
+    fips_code: null
+    type: 'military postal region'
+    level: null
+    parent_id: null
+    native: 'Armed Forces Pacific'
+    latitude: null
+    longitude: null
+    timezone: null
+    translations: {  }
+    wikiDataId: null
+    population: null
+  -
     id: 1416
     name: California
     country_id: 233
@@ -200226,7 +200283,7 @@ state:
     country_code: WF
     country_name: 'Wallis and Futuna Islands'
     iso2: AL
-    iso3166_2: null
+    iso3166_2: WF-AL
     fips_code: null
     type: 'administrative precinct'
     level: null
@@ -200265,7 +200322,7 @@ state:
     country_code: WF
     country_name: 'Wallis and Futuna Islands'
     iso2: SG
-    iso3166_2: null
+    iso3166_2: WF-SG
     fips_code: null
     type: 'administrative precinct'
     level: null
@@ -200304,7 +200361,7 @@ state:
     country_code: WF
     country_name: 'Wallis and Futuna Islands'
     iso2: UV
-    iso3166_2: null
+    iso3166_2: WF-UV
     fips_code: null
     type: 'administrative precinct'
     level: null
