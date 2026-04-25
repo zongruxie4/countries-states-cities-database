@@ -30723,7 +30723,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Anhui</native>
+    <native>安徽省</native>
     <latitude>32.00000000</latitude>
     <longitude>117.00000000</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -30740,7 +30740,7 @@
       <fr>Anhui</fr>
       <ja>安徽省</ja>
       <it>Anhui</it>
-      <zh-CN>安徽</zh-CN>
+      <zh-CN>安徽省</zh-CN>
       <tr>Anhui</tr>
       <ru>Аньхой</ru>
       <uk>Аньхой</uk>
@@ -30763,7 +30763,7 @@
     <type>municipality</type>
     <level>3</level>
     <parent_id></parent_id>
-    <native>Beijing</native>
+    <native>北京市</native>
     <latitude>39.90571360</latitude>
     <longitude>116.39129720</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -30780,7 +30780,7 @@
       <fr>Pékin</fr>
       <ja>北京</ja>
       <it>Pechino</it>
-      <zh-CN>北京</zh-CN>
+      <zh-CN>北京市</zh-CN>
       <tr>Pekin</tr>
       <ru>Пекин</ru>
       <uk>Пекін</uk>
@@ -30803,7 +30803,7 @@
     <type>municipality</type>
     <level>3</level>
     <parent_id></parent_id>
-    <native>Chongqing</native>
+    <native>重庆市</native>
     <latitude>30.05518000</latitude>
     <longitude>107.87487120</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -30820,7 +30820,7 @@
       <fr>Chongqing</fr>
       <ja>重慶</ja>
       <it>Chongqing</it>
-      <zh-CN>重庆</zh-CN>
+      <zh-CN>重庆市</zh-CN>
       <tr>Çongçing</tr>
       <ru>Чунцин</ru>
       <uk>Чунцін</uk>
@@ -30843,7 +30843,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Fujian</native>
+    <native>福建省</native>
     <latitude>26.19321800</latitude>
     <longitude>118.22087210</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -30860,7 +30860,7 @@
       <fr>Fujian</fr>
       <ja>福建省</ja>
       <it>Fujian</it>
-      <zh-CN>福建</zh-CN>
+      <zh-CN>福建省</zh-CN>
       <tr>Fujian</tr>
       <ru>Фуцзянь</ru>
       <uk>Фуцзянь</uk>
@@ -30883,7 +30883,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Gansu</native>
+    <native>甘肃省</native>
     <latitude>38.00000010</latitude>
     <longitude>101.99999990</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -30900,7 +30900,7 @@
       <fr>Gansu</fr>
       <ja>甘粛省</ja>
       <it>Gansu</it>
-      <zh-CN>甘肃</zh-CN>
+      <zh-CN>甘肃省</zh-CN>
       <tr>Gansu</tr>
       <ru>Ганьсу</ru>
       <uk>Ганьсу</uk>
@@ -30923,7 +30923,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Guangdong</native>
+    <native>广东省</native>
     <latitude>23.13576940</latitude>
     <longitude>113.19826880</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -30940,7 +30940,7 @@
       <fr>Guangdong</fr>
       <ja>広東省</ja>
       <it>Guangdong</it>
-      <zh-CN>粤</zh-CN>
+      <zh-CN>广东省</zh-CN>
       <tr>Guangdong</tr>
       <ru>Гуандун</ru>
       <uk>Гуандун</uk>
@@ -30963,7 +30963,7 @@
     <type>autonomous region</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Guangxi Zhuang</native>
+    <native>广西壮族自治区</native>
     <latitude>24.00000000</latitude>
     <longitude>109.00000000</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -30980,7 +30980,7 @@
       <fr>GuangxiZhuang</fr>
       <ja>広西チワン族自治区</ja>
       <it>GuangxiZhuang</it>
-      <zh-CN>广西壮族</zh-CN>
+      <zh-CN>广西壮族自治区</zh-CN>
       <tr>Guangxi Zhuang</tr>
       <ru>Гуанси Чжуан</ru>
       <uk>Гуансі Чжуан</uk>
@@ -31003,7 +31003,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Guizhou</native>
+    <native>贵州省</native>
     <latitude>27.00000000</latitude>
     <longitude>107.00000000</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31020,7 +31020,7 @@
       <fr>Guizhou</fr>
       <ja>貴州省</ja>
       <it>Guizhou</it>
-      <zh-CN>贵州</zh-CN>
+      <zh-CN>贵州省</zh-CN>
       <tr>Guizhou</tr>
       <ru>Гуйчжоу</ru>
       <uk>Гуйчжоу</uk>
@@ -31043,7 +31043,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Hainan</native>
+    <native>海南省</native>
     <latitude>19.20000010</latitude>
     <longitude>109.59999990</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31060,7 +31060,7 @@
       <fr>Hainan</fr>
       <ja>海南省</ja>
       <it>Hainan</it>
-      <zh-CN>海南</zh-CN>
+      <zh-CN>海南省</zh-CN>
       <tr>Hainan</tr>
       <ru>Хайнань</ru>
       <uk>Хайнань</uk>
@@ -31083,7 +31083,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Hebei</native>
+    <native>河北省</native>
     <latitude>39.00000010</latitude>
     <longitude>116.00000000</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31100,7 +31100,7 @@
       <fr>Hebei</fr>
       <ja>河北省</ja>
       <it>Hebei</it>
-      <zh-CN>河北</zh-CN>
+      <zh-CN>河北省</zh-CN>
       <tr>Hebei</tr>
       <ru>Хэбэй</ru>
       <uk>Хебей</uk>
@@ -31123,7 +31123,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Heilongjiang</native>
+    <native>黑龙江省</native>
     <latitude>48.00000470</latitude>
     <longitude>127.99999200</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31140,7 +31140,7 @@
       <fr>Heilongjiang</fr>
       <ja>黒龍江省</ja>
       <it>Heilongjiang</it>
-      <zh-CN>黑龙江</zh-CN>
+      <zh-CN>黑龙江省</zh-CN>
       <tr>Heilongjiang</tr>
       <ru>Хэйлунцзян</ru>
       <uk>Хейлунцзян</uk>
@@ -31163,7 +31163,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Henan</native>
+    <native>河南省</native>
     <latitude>34.00000010</latitude>
     <longitude>113.99999990</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31180,7 +31180,7 @@
       <fr>Henan</fr>
       <ja>河南省</ja>
       <it>Henan</it>
-      <zh-CN>河南</zh-CN>
+      <zh-CN>河南省</zh-CN>
       <tr>Henan</tr>
       <ru>Хэнань</ru>
       <uk>Хенань</uk>
@@ -31203,7 +31203,7 @@
     <type>special administrative region</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Hong Kong SAR</native>
+    <native>香港特别行政区</native>
     <latitude>22.35062700</latitude>
     <longitude>114.18491610</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31243,7 +31243,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Hubei</native>
+    <native>湖北省</native>
     <latitude>31.00000000</latitude>
     <longitude>112.00000000</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31260,7 +31260,7 @@
       <fr>Hubei</fr>
       <ja>湖北省</ja>
       <it>Hubei</it>
-      <zh-CN>湖北</zh-CN>
+      <zh-CN>湖北省</zh-CN>
       <tr>Hubei</tr>
       <ru>Хубэй</ru>
       <uk>Хубей</uk>
@@ -31283,7 +31283,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Hunan</native>
+    <native>湖南省</native>
     <latitude>27.66620870</latitude>
     <longitude>111.74870630</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31300,7 +31300,7 @@
       <fr>Hunan</fr>
       <ja>湖南省</ja>
       <it>Hunan</it>
-      <zh-CN>湖南</zh-CN>
+      <zh-CN>湖南省</zh-CN>
       <tr>Hunan</tr>
       <ru>Хунань</ru>
       <uk>Хунань</uk>
@@ -31323,7 +31323,7 @@
     <type>autonomous region</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Inner Mongolia</native>
+    <native>内蒙古自治区</native>
     <latitude>43.24432420</latitude>
     <longitude>114.32516640</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31340,7 +31340,7 @@
       <fr>Mongolie intérieure</fr>
       <ja>内モンゴル</ja>
       <it>Mongolia Interna</it>
-      <zh-CN>内蒙古</zh-CN>
+      <zh-CN>内蒙古自治区</zh-CN>
       <tr>İç Moğolistan</tr>
       <ru>Внутренняя Монголия</ru>
       <uk>Внутрішня Монголія</uk>
@@ -31363,7 +31363,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Jiangsu</native>
+    <native>江苏省</native>
     <latitude>33.00000010</latitude>
     <longitude>119.99999990</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31380,7 +31380,7 @@
       <fr>Jiangsu</fr>
       <ja>江蘇省</ja>
       <it>Jiangsu</it>
-      <zh-CN>江苏</zh-CN>
+      <zh-CN>江苏省</zh-CN>
       <tr>Jiangsu</tr>
       <ru>Цзянсу</ru>
       <uk>Цзянсу</uk>
@@ -31403,7 +31403,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Jiangxi</native>
+    <native>江西省</native>
     <latitude>28.00000000</latitude>
     <longitude>116.00000000</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31420,7 +31420,7 @@
       <fr>Jiangxi</fr>
       <ja>江西省</ja>
       <it>Jiangxi</it>
-      <zh-CN>江西</zh-CN>
+      <zh-CN>江西省</zh-CN>
       <tr>Jiangxi</tr>
       <ru>Цзянси</ru>
       <uk>Цзянсі</uk>
@@ -31443,7 +31443,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Jilin</native>
+    <native>吉林省</native>
     <latitude>43.83788300</latitude>
     <longitude>126.54957200</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31460,7 +31460,7 @@
       <fr>Jilin</fr>
       <ja>吉林省</ja>
       <it>Jilin</it>
-      <zh-CN>吉林</zh-CN>
+      <zh-CN>吉林省</zh-CN>
       <tr>Jilin</tr>
       <ru>Цзилинь</ru>
       <uk>Цзілінь</uk>
@@ -31483,7 +31483,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Liaoning</native>
+    <native>辽宁省</native>
     <latitude>41.23741060</latitude>
     <longitude>122.99554690</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31500,7 +31500,7 @@
       <fr>Liaoning</fr>
       <ja>遼寧省</ja>
       <it>Liaoning</it>
-      <zh-CN>辽宁</zh-CN>
+      <zh-CN>辽宁省</zh-CN>
       <tr>Liaoning</tr>
       <ru>Ляонин</ru>
       <uk>Ляонін</uk>
@@ -31523,7 +31523,7 @@
     <type>special administrative region</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Macau SAR</native>
+    <native>澳门特别行政区</native>
     <latitude>22.31452850</latitude>
     <longitude>113.94724460</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31563,28 +31563,28 @@
     <type>autonomous region</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Ningxia Huizu</native>
+    <native>宁夏回族自治区</native>
     <latitude>37.00000010</latitude>
     <longitude>105.99999990</longitude>
     <timezone>Asia/Shanghai</timezone>
     <translations>
-      <br>Ningxia Huizu</br>
+      <br>Ningxia Hui</br>
       <ko>닝샤후이주</ko>
-      <pt-BR>Ningxia Huizu</pt-BR>
-      <pt>Ningxia Huizu</pt>
-      <nl>Ningxia Huizu</nl>
-      <hr>Ningxia Huizu</hr>
+      <pt-BR>Ningxia Hui</pt-BR>
+      <pt>Ningxia Hui</pt>
+      <nl>Ningxia Hui</nl>
+      <hr>Ningxia Hui</hr>
       <fa>نینگشیا هویزو</fa>
-      <de>Ningxia Huizu</de>
-      <es>Ningxia Huizu</es>
-      <fr>Ningxia Huizu</fr>
+      <de>Ningxia Hui</de>
+      <es>Ningxia Hui</es>
+      <fr>Ningxia Hui</fr>
       <ja>寧夏回族自治区</ja>
-      <it>Ningxia Huizu</it>
-      <zh-CN>宁夏回族</zh-CN>
-      <tr>Ningxia Huizu</tr>
+      <it>Ningxia Hui</it>
+      <zh-CN>宁夏回族自治区</zh-CN>
+      <tr>Ningxia Hui</tr>
       <ru>Нинся Хуэйцзу</ru>
       <uk>Нінся Хуйзу</uk>
-      <pl>Ningxia Huizu</pl>
+      <pl>Ningxia Hui</pl>
       <hi>निंग्ज़िया हुइज़ु</hi>
       <ar>نينغشيا هويزو</ar>
     </translations>
@@ -31603,7 +31603,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Qinghai</native>
+    <native>青海省</native>
     <latitude>36.00000000</latitude>
     <longitude>96.00000000</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31620,7 +31620,7 @@
       <fr>Qinghai</fr>
       <ja>青海省</ja>
       <it>Qinghai</it>
-      <zh-CN>青海</zh-CN>
+      <zh-CN>青海省</zh-CN>
       <tr>Qinghai</tr>
       <ru>Цинхай</ru>
       <uk>Цінхай</uk>
@@ -31643,7 +31643,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Shaanxi</native>
+    <native>陕西省</native>
     <latitude>35.58959590</latitude>
     <longitude>109.30131070</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31660,7 +31660,7 @@
       <fr>Shaanxi</fr>
       <ja>陝西省</ja>
       <it>Shaanxi</it>
-      <zh-CN>陕西</zh-CN>
+      <zh-CN>陕西省</zh-CN>
       <tr>Şensi</tr>
       <ru>Шэньси</ru>
       <uk>Шеньсі</uk>
@@ -31683,7 +31683,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Shandong</native>
+    <native>山东省</native>
     <latitude>36.39898700</latitude>
     <longitude>118.50556910</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31700,7 +31700,7 @@
       <fr>Shandong</fr>
       <ja>山東省</ja>
       <it>Shandong</it>
-      <zh-CN>山东</zh-CN>
+      <zh-CN>山东省</zh-CN>
       <tr>Şandong</tr>
       <ru>Шаньдун</ru>
       <uk>Шаньдун</uk>
@@ -31723,7 +31723,7 @@
     <type>municipality</type>
     <level>3</level>
     <parent_id></parent_id>
-    <native>Shanghai</native>
+    <native>上海市</native>
     <latitude>31.23041600</latitude>
     <longitude>121.47370100</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31740,7 +31740,7 @@
       <fr>Shanghai</fr>
       <ja>上海</ja>
       <it>Shanghai</it>
-      <zh-CN>上海</zh-CN>
+      <zh-CN>上海市</zh-CN>
       <tr>Şanghay</tr>
       <ru>Шанхай</ru>
       <uk>Шанхай</uk>
@@ -31763,7 +31763,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Shanxi</native>
+    <native>山西省</native>
     <latitude>37.00000000</latitude>
     <longitude>112.00000000</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31780,7 +31780,7 @@
       <fr>Shanxi</fr>
       <ja>山西省</ja>
       <it>Shanxi</it>
-      <zh-CN>山西</zh-CN>
+      <zh-CN>山西省</zh-CN>
       <tr>Şanksi</tr>
       <ru>Шаньси</ru>
       <uk>Шаньсі</uk>
@@ -31803,7 +31803,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Sichuan</native>
+    <native>四川省</native>
     <latitude>30.50000010</latitude>
     <longitude>102.49999990</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31820,7 +31820,7 @@
       <fr>Sichuan</fr>
       <ja>四川省</ja>
       <it>Sichuan</it>
-      <zh-CN>四川</zh-CN>
+      <zh-CN>四川省</zh-CN>
       <tr>Sichuan</tr>
       <ru>Сычуань</ru>
       <uk>Сичуань</uk>
@@ -31843,7 +31843,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Taiwan</native>
+    <native>台湾</native>
     <latitude>23.97393740</latitude>
     <longitude>120.98201790</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31883,7 +31883,7 @@
     <type>municipality</type>
     <level>3</level>
     <parent_id></parent_id>
-    <native>Tianjin</native>
+    <native>天津市</native>
     <latitude>39.08448970</latitude>
     <longitude>117.19567240</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31900,7 +31900,7 @@
       <fr>Tianjin</fr>
       <ja>天津</ja>
       <it>Tianjin</it>
-      <zh-CN>天津</zh-CN>
+      <zh-CN>天津市</zh-CN>
       <tr>Tianjin</tr>
       <ru>Тяньцзинь</ru>
       <uk>Тяньцзінь</uk>
@@ -31923,7 +31923,7 @@
     <type>autonomous region</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Xizang</native>
+    <native>西藏自治区</native>
     <latitude>29.85564430</latitude>
     <longitude>90.87498070</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -31940,7 +31940,7 @@
       <fr>Xizang</fr>
       <ja>西蔵</ja>
       <it>Xizang</it>
-      <zh-CN>西藏</zh-CN>
+      <zh-CN>西藏自治区</zh-CN>
       <tr>Xizang</tr>
       <ru>Сизан</ru>
       <uk>Xizang</uk>
@@ -31963,7 +31963,7 @@
     <type>autonomous region</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Xinjiang</native>
+    <native>新疆维吾尔自治区</native>
     <latitude>42.48049530</latitude>
     <longitude>85.46334640</longitude>
     <timezone>Asia/Urumqi</timezone>
@@ -31980,7 +31980,7 @@
       <fr>Xinjiang</fr>
       <ja>新疆ウイグル自治区</ja>
       <it>Xinjiang</it>
-      <zh-CN>新疆</zh-CN>
+      <zh-CN>新疆维吾尔自治区</zh-CN>
       <tr>Sincan</tr>
       <ru>Синьцзян</ru>
       <uk>Сіньцзян</uk>
@@ -32003,7 +32003,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Yunnan</native>
+    <native>云南省</native>
     <latitude>25.00000000</latitude>
     <longitude>102.00000000</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -32020,7 +32020,7 @@
       <fr>Yunnan</fr>
       <ja>雲南省</ja>
       <it>Yunnan</it>
-      <zh-CN>云南</zh-CN>
+      <zh-CN>云南省</zh-CN>
       <tr>Yunnan</tr>
       <ru>Юньнань</ru>
       <uk>Юньнань</uk>
@@ -32043,7 +32043,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id></parent_id>
-    <native>Zhejiang</native>
+    <native>浙江省</native>
     <latitude>29.00000010</latitude>
     <longitude>119.99999990</longitude>
     <timezone>Asia/Shanghai</timezone>
@@ -32060,7 +32060,7 @@
       <fr>Zhejiang</fr>
       <ja>浙江省</ja>
       <it>Zhejiang</it>
-      <zh-CN>浙江</zh-CN>
+      <zh-CN>浙江省</zh-CN>
       <tr>Zhejiang</tr>
       <ru>Чжэцзян</ru>
       <uk>Чжецзян</uk>
@@ -135768,7 +135768,7 @@
     <type>region</type>
     <level></level>
     <parent_id></parent_id>
-    <native>CALABARZON</native>
+    <native>Calabarzon</native>
     <latitude>14.16583140</latitude>
     <longitude>121.35355770</longitude>
     <timezone>Asia/Manila</timezone>
@@ -135848,7 +135848,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1304</parent_id>
-    <native>Camarines on</native>
+    <native>Camarines Sur</native>
     <latitude>13.64282160</latitude>
     <longitude>123.32823380</longitude>
     <timezone>Asia/Manila</timezone>
@@ -136408,7 +136408,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1340</parent_id>
-    <native>South Davao</native>
+    <native>Davao del Sur</native>
     <latitude>6.69836580</latitude>
     <longitude>125.36121350</longitude>
     <timezone>Asia/Manila</timezone>
@@ -136808,7 +136808,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1355</parent_id>
-    <native>Ilocos Sur Ilocos Sur</native>
+    <native>Ilocos Sur</native>
     <latitude>17.20000000</latitude>
     <longitude>120.50000000</longitude>
     <timezone>Asia/Manila</timezone>
@@ -136968,7 +136968,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1355</parent_id>
-    <native>Union</native>
+    <native>La Union</native>
     <latitude>16.57359570</latitude>
     <longitude>120.40898990</longitude>
     <timezone>Asia/Manila</timezone>
@@ -137088,7 +137088,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1316</parent_id>
-    <native>Lanao of the South</native>
+    <native>Lanao del Sur</native>
     <latitude>7.87764430</latitude>
     <longitude>124.37547590</longitude>
     <timezone>Asia/Manila</timezone>
@@ -137208,7 +137208,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1316</parent_id>
-    <native>South.</native>
+    <native>Maguindanao del Sur</native>
     <latitude>6.92341960</latitude>
     <longitude>124.53653570</longitude>
     <timezone>Asia/Manila</timezone>
@@ -137328,7 +137328,7 @@
     <type>region</type>
     <level></level>
     <parent_id></parent_id>
-    <native>MIMAROPA</native>
+    <native>Mimaropa</native>
     <latitude>13.01064360</latitude>
     <longitude>121.41157470</longitude>
     <timezone>Asia/Manila</timezone>
@@ -137408,7 +137408,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1339</parent_id>
-    <native>Eastern Misamis</native>
+    <native>Misamis Oriental</native>
     <latitude>8.65348070</latitude>
     <longitude>124.82352050</longitude>
     <timezone>Asia/Manila</timezone>
@@ -137528,15 +137528,15 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1305</parent_id>
-    <native>Western blacks</native>
+    <native>Negros Occidental</native>
     <latitude>10.41666700</latitude>
     <longitude>123.00000000</longitude>
     <timezone>Asia/Manila</timezone>
     <translations>
       <br>Negros Occidental</br>
       <ko>네그로스 옥시덴탈</ko>
-      <pt-BR>Negros Ocidentais</pt-BR>
-      <pt>Negros Ocidentais</pt>
+      <pt-BR>Negros Occidental</pt-BR>
+      <pt>Negros Occidental</pt>
       <nl>Negros Occidental</nl>
       <hr>Zapadni Negros</hr>
       <fa>نگروس غربی</fa>
@@ -137544,9 +137544,9 @@
       <es>Negros Occidental</es>
       <fr>Negros occidental</fr>
       <ja>ネグロス・オクシデンタル</ja>
-      <it>Negri Occidentali</it>
+      <it>Negros Occidental</it>
       <zh-CN>西内格罗斯省</zh-CN>
-      <tr>Batılı Zenciler</tr>
+      <tr>Negros Occidental</tr>
       <ru>Негрос Оксидентал</ru>
       <uk>Негрос Оксидентал</uk>
       <pl>Negros Occidental</pl>
@@ -137568,15 +137568,15 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1308</parent_id>
-    <native>Eastern blacks</native>
+    <native>Negros Oriental</native>
     <latitude>9.75000000</latitude>
     <longitude>123.00000000</longitude>
     <timezone>Asia/Manila</timezone>
     <translations>
       <br>Negros Oriental</br>
       <ko>네그로스 오리엔탈</ko>
-      <pt-BR>Negros Orientais</pt-BR>
-      <pt>Negros Orientais</pt>
+      <pt-BR>Negros Oriental</pt-BR>
+      <pt>Negros Oriental</pt>
       <nl>Negros Oriental</nl>
       <hr>Negros Oriental</hr>
       <fa>نگروس شرقی</fa>
@@ -137586,7 +137586,7 @@
       <ja>ネグロス・オリエンタル</ja>
       <it>Negros Oriental</it>
       <zh-CN>东内格罗斯省</zh-CN>
-      <tr>Zenci Doğulu</tr>
+      <tr>Negros Oriental</tr>
       <ru>Негрос Ориентал</ru>
       <uk>Негрос-Схід</uk>
       <pl>Negros Oriental</pl>
@@ -137688,7 +137688,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1345</parent_id>
-    <native>New Ecija</native>
+    <native>Nueva Ecija</native>
     <latitude>15.58333300</latitude>
     <longitude>121.00000000</longitude>
     <timezone>Asia/Manila</timezone>
@@ -137728,7 +137728,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1342</parent_id>
-    <native>New Biscay</native>
+    <native>Nueva Vizcaya</native>
     <latitude>16.35000000</latitude>
     <longitude>121.13000000</longitude>
     <timezone>Asia/Manila</timezone>
@@ -138568,7 +138568,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1316</parent_id>
-    <native>Tawi-tawi</native>
+    <native>Tawi-Tawi</native>
     <latitude>5.20570000</latitude>
     <longitude>120.02650000</longitude>
     <timezone>Asia/Manila</timezone>
@@ -138728,7 +138728,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1325</parent_id>
-    <native>North Zamboanga</native>
+    <native>Zamboanga del Norte</native>
     <latitude>8.00000000</latitude>
     <longitude>122.66666700</longitude>
     <timezone>Asia/Manila</timezone>
@@ -138768,7 +138768,7 @@
     <type>province</type>
     <level>1</level>
     <parent_id>1325</parent_id>
-    <native>South Zamboanga</native>
+    <native>Zamboanga del Sur</native>
     <latitude>7.90430000</latitude>
     <longitude>123.31940000</longitude>
     <timezone>Asia/Manila</timezone>
@@ -204243,6 +204243,66 @@
     <population>3088354</population>
   </state>
   <state>
+    <id>5815</id>
+    <name>Armed Forces Europe</name>
+    <country_id>233</country_id>
+    <country_code>US</country_code>
+    <country_name>United States</country_name>
+    <iso2>AE</iso2>
+    <iso3166_2></iso3166_2>
+    <fips_code></fips_code>
+    <type>military postal region</type>
+    <level></level>
+    <parent_id></parent_id>
+    <native>Armed Forces Europe</native>
+    <latitude></latitude>
+    <longitude></longitude>
+    <timezone></timezone>
+    <translations/>
+    <wikiDataId></wikiDataId>
+    <population></population>
+  </state>
+  <state>
+    <id>5816</id>
+    <name>Armed Forces of the Americas</name>
+    <country_id>233</country_id>
+    <country_code>US</country_code>
+    <country_name>United States</country_name>
+    <iso2>AA</iso2>
+    <iso3166_2></iso3166_2>
+    <fips_code></fips_code>
+    <type>military postal region</type>
+    <level></level>
+    <parent_id></parent_id>
+    <native>Armed Forces of the Americas</native>
+    <latitude></latitude>
+    <longitude></longitude>
+    <timezone></timezone>
+    <translations/>
+    <wikiDataId></wikiDataId>
+    <population></population>
+  </state>
+  <state>
+    <id>5817</id>
+    <name>Armed Forces Pacific</name>
+    <country_id>233</country_id>
+    <country_code>US</country_code>
+    <country_name>United States</country_name>
+    <iso2>AP</iso2>
+    <iso3166_2></iso3166_2>
+    <fips_code></fips_code>
+    <type>military postal region</type>
+    <level></level>
+    <parent_id></parent_id>
+    <native>Armed Forces Pacific</native>
+    <latitude></latitude>
+    <longitude></longitude>
+    <timezone></timezone>
+    <translations/>
+    <wikiDataId></wikiDataId>
+    <population></population>
+  </state>
+  <state>
     <id>1416</id>
     <name>California</name>
     <country_id>233</country_id>
@@ -210729,7 +210789,7 @@
     <country_code>WF</country_code>
     <country_name>Wallis and Futuna Islands</country_name>
     <iso2>AL</iso2>
-    <iso3166_2></iso3166_2>
+    <iso3166_2>WF-AL</iso3166_2>
     <fips_code></fips_code>
     <type>administrative precinct</type>
     <level></level>
@@ -210770,7 +210830,7 @@
     <country_code>WF</country_code>
     <country_name>Wallis and Futuna Islands</country_name>
     <iso2>SG</iso2>
-    <iso3166_2></iso3166_2>
+    <iso3166_2>WF-SG</iso3166_2>
     <fips_code></fips_code>
     <type>administrative precinct</type>
     <level></level>
@@ -210811,7 +210871,7 @@
     <country_code>WF</country_code>
     <country_name>Wallis and Futuna Islands</country_name>
     <iso2>UV</iso2>
-    <iso3166_2></iso3166_2>
+    <iso3166_2>WF-UV</iso3166_2>
     <fips_code></fips_code>
     <type>administrative precinct</type>
     <level></level>
