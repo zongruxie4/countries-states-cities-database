@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-04
+- **2026-04-25** - PR [#54](https://github.com/zongruxie4/countries-states-cities-database/pull/54): Updated cities, Updated states, Updated countries (CA, PY) (by @pull[bot])
+- **2026-04-25** - PR [#53](https://github.com/zongruxie4/countries-states-cities-database/pull/53): Updated cities, Updated states, Updated countries (CA, CN, PY) (by @pull[bot])
+
 ## 2026-03
 - **2026-03-28** - PR [#1372](https://github.com/dr5hn/countries-states-cities-database/pull/1372): Updated cities (EG, MY, NG, PH, SA) (by @github-actions[bot])
 - **2026-03-28** - PR [#1371](https://github.com/dr5hn/countries-states-cities-database/pull/1371): Updated cities (MY) (by @dr5hn)
